@@ -6,7 +6,7 @@
   <link href="https://duzhiguo.github.io/atom.xml" rel="self"/>
   
   <link href="https://duzhiguo.github.io/"/>
-  <updated>2020-11-11T03:59:42.000Z</updated>
+  <updated>2022-05-25T09:29:14.037Z</updated>
   <id>https://duzhiguo.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学公式</title>
+    <link href="https://duzhiguo.github.io/2022/05/25/shu-xue-gong-shi/"/>
+    <id>https://duzhiguo.github.io/2022/05/25/shu-xue-gong-shi/</id>
+    <published>2022-05-25T00:00:11.000Z</published>
+    <updated>2022-05-25T09:29:14.037Z</updated>
+    
+    
+    
+    
+    <category term="考研" scheme="https://duzhiguo.github.io/categories/%E8%80%83%E7%A0%94/"/>
+    
+    
+    <category term="考研" scheme="https://duzhiguo.github.io/tags/%E8%80%83%E7%A0%94/"/>
+    
+  </entry>
   
   <entry>
     <title>考研数据结构之排序总结</title>
