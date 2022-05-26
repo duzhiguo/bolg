@@ -8,7 +8,7 @@
       <link href="/bolg/2022/05/25/shu-xue-gong-shi/"/>
       <url>/bolg/2022/05/25/shu-xue-gong-shi/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>泰勒级数</p><p>1、e^x = 1+x+x^2/2!+x^3/3!+……+x^n/n!+……</p><p>2、ln(1+x)=x-x^2/2+x^3/3-……+(-1)^(k-1)*(x^k)/k + ……(|x|&lt;1)</p><p>3、sin x = x-x^3/3!+x^5/5!-……+(-1)^(k-1)*(x^(2k-1))/(2k-1)!+……。(-∞&lt;x&lt;∞)，</p><p>4、cos x = 1-x^2/2!+x^4/4!-……+(-1)k*(x^(2k))/(2k)!+…… (-∞&lt;x&lt;∞)，</p><p>5、arcsin x = x + 1/2<em>x^3/3 + 1</em>3/(2*4)*x^5/5 + ……(|x|&lt;1)，</p><p>6、arccos x = π - ( x + 1/2<em>x^3/3 + 1</em>3/(2*4)*x^5/5 + …… ) (|x|&lt;1)，</p><p>7、tanx=x+x^3/3+(2 x^5)/15+(17 x^7)/315+(62 x^9)/2835+O[x]^11(|x|&lt;π/2)<img src="https://p0.ssl.img.360kuai.com/t01255556e1a04912d0.jpg?size=640x393" alt="img"></p>]]></content>
       
       
       <categories>
